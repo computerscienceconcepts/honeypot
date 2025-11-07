@@ -1,4 +1,4 @@
-# Mini Honeypot (Python asyncio)
+# Honeypot (Python asyncio)
 
 ⚠️ **Legal & Safety Disclaimer** ⚠️  
 This software is for research and educational purposes only. Operating a honeypot can implicate legal and policy concerns. Consult your legal team before deploying on networks you do not fully control. The system never executes attacker-supplied payloads.
