@@ -89,7 +89,7 @@ curl -X POST http://localhost:80/login \
 ```
 
 ![POST Test](showcase/post%20test.png)
-*POST requests with form data are captured and logged. The honeypot never executes the payload - it only records it.*
+*POST requests with form data are captured and logged. The honeypot never executes the payload, it only records it.*
 
 **Test SSH:**
 ```bash
