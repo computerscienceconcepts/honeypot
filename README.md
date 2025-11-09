@@ -84,7 +84,6 @@ curl http://localhost:443/admin
 **Test POST request:**
 ```bash
 curl -X POST http://localhost:80/login \
-  -H "Content-Type: application/x-www-form-urlencoded" \
   -d "username=admin&password=test"
 ```
 
